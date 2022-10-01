@@ -2,9 +2,12 @@
 
 
 ## Images of your agent(s) navigating their environments 
-![alt text](http://url/to/img.png)
+![Example1](BallCarrier1.png)
+![Example2](BallCarrier1.png)
+
 
 ## A brief description of the features of your implementation and timestamp of where they occur in your video(s). 
+![Video](FootballVid.mp4)
 - 00:00:07 - Start the scene, it randomizes the position of the defenders (starting with 11 as default)
 - 00:00:08 - Utlize the camera and 3d enviornment. Right click allows one to move around camera about the center of the field up and down(values are clamped though) to see a top down view and 360 angles.
 - 00:00:18 - Randomize the field by pressing down on 'r' moves around all defenders currently on the ground
