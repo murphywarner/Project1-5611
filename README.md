@@ -2,15 +2,23 @@
 
 
 ## Images of your agent(s) navigating their environments 
+![alt text](http://url/to/img.png)
 
-## A brief description of the features of your implementation and timestamp 
-of where they occur in your video(s). 
+## A brief description of the features of your implementation and timestamp of where they occur in your video(s). 
+- 00:00:07 - Start the scene, it randomizes the position of the defenders (starting with 11 as default)
+- 00:00:08 - Utlize the camera and 3d enviornment. Right click allows one to move around camera about the center of the field up and down(values are clamped though) to see a top down view and 360 angles.
+- 00:00:18 - Randomize the field by pressing down on 'r' moves around all defenders currently on the ground
+- 00:00:21 - User scenario editing. Add defenders wherever you want by left clicking the position desired.
+- 00:00:30 - See nodes of pathways connected with there neighbors.
+- 00:00:37 - push 'b' to darken the route to allow you to get to the endzone.
+- 00:00:45 - push 'g' to go to the endzone along the route
+- 00:01:00 - push 'd' to destroy all lines and nodes
 
 ## An explicit list of which features you attempted 
--Single Agent Navigation
--3D Rendering & Camera
--Improved Agent & Scene Rendering 
--User Scenario Editing+
+- Single Agent Navigation
+- 3D Rendering & Camera
+- Improved Agent & Scene Rendering 
+- User Scenario Editing+
 
 ## Code you wrote 
 [FootballAnimation.cs](Assets/FootballAnimation.cs)
