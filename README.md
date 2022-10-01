@@ -1,5 +1,6 @@
 # Project1-5611
 
+full animation: https://murphywarner.github.io/Project1-5611/builds/Alpha/index.html
 
 ## Images of your agent(s) navigating their environments 
 ![Example1](BallCarrier1.png)
